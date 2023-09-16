@@ -85,7 +85,7 @@
 	"tree_support_wall_count": "0",
 	"detect_thin_wall": "1",
 	"top_surface_pattern": "monotonic",
-	"top_surface_line_width": "88%",
+	"top_surface_line_width": "87.5%",
 	"top_shell_layers": "4",
 	"top_shell_thickness": "0.8",
 	"initial_layer_speed": "35%",
